@@ -185,10 +185,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
+- **GitHub:** (https://github.com/Shihab-Eldin-Ibrahim)
+- **Email:** shedar326@gmail.com
+- **LinkedIn:** www.linkedin.com/in/shehab-el-din-ibrahim-8b0864212
 ---
 
 ⭐ **Star this repository if you found it helpful!**
